@@ -1,0 +1,6 @@
+name = "ramsey"
+compatibility_date = "2025-05-09"
+
+# Configure static assets
+[site]
+bucket = "./"
