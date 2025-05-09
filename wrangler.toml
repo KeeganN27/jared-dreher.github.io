@@ -1,5 +1,6 @@
 name = "ramsey"
 compatibility_date = "2025-05-09"
+main = "src/index.ts"
 
 # Configure static assets
 [site]
